@@ -1,0 +1,63 @@
+[
+    {
+        "name":"Sector 13",
+        "places":"64 Places",
+        "link":"#",
+        "icon": "<i class='fa-solid fa-chevron-right'>",
+        "class":"''"
+    },
+    {
+        "name":"Sector 14",
+        "places":"52 Places",
+        "link":"#",
+       "icon": "<i class='fa-solid fa-chevron-right'>",
+        "class":"''"
+    },
+    {
+        "name":"Dyal Singh Colony",
+        "places":"41 places",
+        "link":"#",
+       "icon": "<i class='fa-solid fa-chevron-right'>",
+        "class":"''"
+    },
+    {
+        "name":"Model Town",
+        "places":"38 Places",
+        "link":"#",
+         "icon": "<i class='fa-solid fa-chevron-right'>",
+        "class":"''"
+    },
+    {
+        "name":"Sector 7",
+        "places":"26 Places",
+        "link":"#",
+        "icon": "<i class='fa-solid fa-chevron-right'>",
+        "class":"''"
+    },
+    {
+        "name":"Alpha International City",
+        "places":"21 places",
+        "link":"#",
+        "icon": "<i class='fa-solid fa-chevron-right'>",
+        "class":"''"
+    },
+    {
+        "name":"Ramesh Nagar",
+        "places":"19 Places",
+        "link":"#",
+        "icon": "<i class='fa-solid fa-chevron-right'>",
+        "class":"''"
+    },
+    {
+        "name":"Sector 9",
+        "places":"14 Places",
+        "link":"#",
+       "icon": "<i class='fa-solid fa-chevron-right'>",
+        "class":"''"
+    },
+    {
+        "name":"see more",
+        "icon": "<i class='fa-solid fa-chevron-down'></i>",
+        "class":"action"
+    }
+]
