@@ -53,11 +53,46 @@
         "places":"14 Places",
         "link":"#",
        "icon": "<i class='fa-solid fa-chevron-right'>",
-        "class":"''"
+        "class":"' '"
     },
     {
         "name":"see more",
         "icon": "<i class='fa-solid fa-chevron-down'></i>",
         "class":"action"
+    },
+    {
+        "name":"Kheri Naru",
+        "places":"11 Places",
+        "link":"#",
+       "icon": "<i class='fa-solid fa-chevron-right'>",
+        "class":"cshow"
+    },
+    {
+        "name":"Ram Nagar",
+        "places":"9 Places",
+        "link":"#",
+       "icon": "<i class='fa-solid fa-chevron-right'>",
+        "class":"cshow"
+    },
+    {
+        "name":"Ansal Town",
+        "places":"8 Places",
+        "link":"#",
+       "icon": "<i class='fa-solid fa-chevron-right'>",
+        "class":"cshow"
+    },
+    {
+        "name":"Sector 33",
+        "places":"6 Places",
+        "link":"#",
+       "icon": "<i class='fa-solid fa-chevron-right'>",
+        "class":"cshow"
+    },
+    {
+        "name":"Sector 3",
+        "places":"6 Places",
+        "link":"#",
+       "icon": "<i class='fa-solid fa-chevron-right'>",
+        "class":"cshow"
     }
 ]

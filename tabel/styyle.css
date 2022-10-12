@@ -11,15 +11,16 @@ nav{
     width:100%;
 }
 .navcontainor{
-    /* max-width: 1000px;
-    margin: 0 auto; */
+    max-width: 1250px;
+    margin: 0 auto;
+    position: relative;
 }
 .nav-inner{
     display: flex;
     justify-content: space-between;
-    position: fixed;
+    position: absolute;
     width: 100%;
-    padding: 0px 150px ;
+    padding: 0px 100px;
     background-color: transparent;
     align-items: center;
 }
@@ -211,6 +212,12 @@ nav{
 .card h2,p{
     margin: 0px;
 }
+.cshow{
+    display: none;
+}
+show{
+    display: block !important;
+}
 /* <!-- -------------------------------section-C-end----------------------------------------------- --> */
 .main-containor-D{
     max-width: 800px;
@@ -291,4 +298,76 @@ nav{
 }
 .inner-row-Dinpur-area-APP-img div img{
     width: 70%;
+}
+
+
+/* ____________________________________________________ */
+
+.foot-conntainor{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.inner-row{
+    width: 100%;
+}
+.foot-logo{
+    display: flex;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btns{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    font-size: 2rem;
+    font-size: 1.3rem;
+    opacity: 0.9;
+}
+.links{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 0px;
+    position: relative;
+}
+.links::after{
+    content: "";
+    position: absolute;
+    bottom: 0px;
+    height: 1px;
+    width: 100%;
+    background-color: #000;
+    opacity: 0.2;
+}
+.aboutlink,.ZOMAVERSElink,.RESTAURANTSlink,.LEARNlink,.imagelink{
+    width: 20%;
+}
+.aboutlink ul,.ZOMAVERSElink ul,.RESTAURANTSlink ul,.LEARNlink ul,.imagelink ul{
+    list-style: none;
+}
+.aboutlink ul li a,.ZOMAVERSElink ul li a,.RESTAURANTSlink ul li a,.LEARNlink ul li a,.imagelink ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 0.9rem;
+    opacity: 0.6;
+}
+ul li{
+    padding: 5px 0px;
+    text-align: start;
+}
+.socilaicons{
+  padding: 10px 0px;
+}
+.socialimg{
+    width: 100%;
+}
+.socialimg img{
+    width: 70%;
+}
+.foot-last-bottom{
+    padding: 30px 0px;
+    line-height: 25px;
+    font-size: 0.8rem;
+    opacity: 0.6;
 }
