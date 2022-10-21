@@ -1,0 +1,1112 @@
+[
+    {
+      "name":"Kumar Cakes & Bakes",
+      "data":"Bakery, Italian, Pizza, Burger",
+      "area":"Dyal Singh Colony, Karnal",
+      "rating":"4.9",
+      "ratingH":"179",
+      "Drating":"4.3",
+      "DHrating":"24.1K",
+      "imgGallery":[
+                      "99cef720de709c09f83cad36bd572e69.jpg",
+                      "7f47767f22cfcff34fcf7d9822c5f73e.jpg",
+                      "ecebd40c7954a0888e948b8a184a974e.jpg"
+                   ],
+      "orderdtets":"Currently closed for online ordering",
+      "ordertracker":"Live tracking not available",
+      "chekveg":"veg only",
+      "cheknon":"contains egg",
+      "Recommended":[
+                      {
+                        "item":"Paneer Grilled Sandwich",
+                        "stets":"BESTSELLER",
+                        "stars":"4",
+                        "vots":"259 votes",
+                        "rs":"₹128",
+                        "madewidth":"Whole wheat.",
+                        "img":"bee05798a909bb1708de9ea82c8e2a66.jpg"
+                      },
+                      {
+                        "item":"Veg Cheese Grilled Sandwich",
+                        "stets":"",
+                        "stars":"4",
+                        "vots":"154 votes",
+                        "rs":"₹118",
+                        "madewidth":"Whole wheat.",
+                        "img":"543da588fb98594cf7f7578c9e1368df.jpg"
+                      },
+                      {
+                        "item":"Simple Atta Biscuit Cookies [250 Grams]",
+                        "stets":"",
+                        "stars":"4",
+                        "vots":"10 votes",
+                        "rs":"₹100",
+                        "madewidth":"Simple Atta Biscuit (250gm).",
+                        "img":""
+                      } 
+                    ],
+      "Pizza N Pasta":[
+                        {
+                          "pasta":[
+                                    
+                                          {
+                                            "item":"Arrabiata Sauce Pasta",
+                                            "stets":"",
+                                            "stars":"",
+                                            "vots":"",
+                                            "rs":"₹280",
+                                            "madewidth":"Arabiatta Sauce Pasta",
+                                            "img":"c065c3fce59c9743c240574e3fd3b812.jpg"
+                                          },
+                                          {
+                                            "item":"Pink Sauce Pasta",
+                                            "stets":"",
+                                            "stars":"3.1",
+                                            "vots":"17 votes",
+                                            "rs":"₹270",
+                                            "madewidth":"Pink Sauce Pasta",
+                                            "img":"6d56113b480f9bc87bb68af10b5e4bda.jpg"
+                                          },
+                                          {
+                                            "item":"Red Sauce Pasta",
+                                            "stets":"",
+                                            "stars":"4.2",
+                                            "vots":"98 votes",
+                                            "rs":"₹270",
+                                            "madewidth":"Red Sauce Pasta",
+                                            "img":"54a7f3820938ee8edf789e1cef2afeb8.jpg"
+                                          },
+                                          {
+                                            "item":"Special Tandoori Pasta",
+                                            "stets":"",
+                                            "stars":"3.4",
+                                            "vots":"10 votes",
+                                            "rs":"₹280",
+                                            "madewidth":"Special Tandoori Pasta",
+                                            "img":"150d0d003a687622b49a0d7a7e06f528.jpg"
+                                          },
+                                          {
+                                            "item":"White Sauce Pasta",
+                                            "stets":"",
+                                            "stars":"4.1",
+                                            "vots":"140 votes",
+                                            "rs":"₹270",
+                                            "madewidth":"White Sauce Pasta",
+                                            "img":"826c0267b3103900e8cb1b338d758443.jpg"
+                                          },
+                                          {
+                                            "item":"3 Cheese Alfredo Pasta",
+                                            "stets":"",
+                                            "stars":"",
+                                            "vots":"",
+                                            "rs":"₹280",
+                                            "madewidth":"3 Cheese Alfredo Pasta",
+                                            "img":""
+                                          },
+                                          {
+                                            "item":"Mexican Sauce Pasta",
+                                            "stets":"",
+                                            "stars":"",
+                                            "vots":"",
+                                            "rs":"₹270",
+                                            "madewidth":"Mexican Sauce Pasta",
+                                            "img":""
+                                          },
+                                          {
+                                            "item":"Mint Sauce Pasta",
+                                            "stets":"",
+                                            "stars":"",
+                                            "vots":"",
+                                            "rs":"₹270",
+                                            "madewidth":"Mint Sauce Pasta",
+                                            "img":""
+                                          },
+                                          {
+                                            "item":"Spl. Makhni Pasta",
+                                            "stets":"",
+                                            "stars":"",
+                                            "vots":"",
+                                            "rs":"₹280",
+                                            "madewidth":"Spl. Makhni Pasta",
+                                            "img":""
+                                          },
+                                          {
+                                            "item":"Zesty Paneer Pasta",
+                                            "stets":"",
+                                            "stars":"",
+                                            "vots":"",
+                                            "rs":"₹280",
+                                            "madewidth":"Zesty Paneer Pasta",
+                                            "img":""
+                                          }
+                                  ],
+                          "PIZZA":[      
+                                          {
+                                            "item":"Farm Fresh Pizza [9 Inches]",
+                                            "stets":"",
+                                            "stars":"4.2",
+                                            "vots":"10 votes",
+                                            "rs":"₹250",
+                                            "inch":"9 Inch",
+                                            "img":"66c4b848d3a7ee9eb8790999c5b92cb9.jpg"
+                                          },
+                                          {
+                                            "item":"Italian Style Pizza [9 Inches]",
+                                            "stets":"",
+                                            "stars":"",
+                                            "vots":"",
+                                            "rs":"₹250",
+                                            "inch":"9 Inch",
+                                            "img":"32320f1102f8338c5c7e66eb1935b4b3.jpg"
+                                          },
+                                          {
+                                            "item":"Veggie Pizza [9 Inches]",
+                                            "stets":"",
+                                            "stars":"3",
+                                            "vots":"10 votes",
+                                            "rs":"₹250",
+                                            "inch":"9 Inch",
+                                            "img":"dc0180dd7d287f3ee18736206e4c48a7.jpg"
+                                          },
+                                          {
+                                            "item":"3 Cheese Pizza [9 Inches]",
+                                            "stets":"",
+                                            "stars":"3",
+                                            "vots":"10 votes",
+                                            "rs":"₹250",
+                                            "inch":"9 Inch",
+                                            "img":""
+                                          },
+                                          {
+                                            "item":"Hawaiian Pizza [9 Inches]",
+                                            "stets":"",
+                                            "stars":"",
+                                            "vots":"",
+                                            "rs":"₹250",
+                                            "inch":"9 Inch",
+                                            "img":""
+                                          },
+                                          {
+                                            "item":"Nacho Mexicana Pizza [9 Inches]",
+                                            "stets":"",
+                                            "stars":"",
+                                            "vots":"",
+                                            "rs":"₹250",
+                                            "inch":"9 Inch",
+                                            "img":""
+                                          },
+                                          {
+                                            "item":"Paneer Makhni Pizza [9 Inches]",
+                                            "stets":"",
+                                            "stars":"",
+                                            "vots":"",
+                                            "rs":"₹250",
+                                            "inch":"9 Inch",
+                                            "img":""
+                                          },
+                                          {
+                                            "item":"Zesty Paneer Pizza [9 Inches]",
+                                            "stets":"",
+                                            "stars":"",
+                                            "vots":"",
+                                            "rs":"₹250",
+                                            "inch":"9 Inch",
+                                            "img":""
+                                          }
+                                    ]       
+                        }
+                     ],     
+      "BurgesSandwich":[
+                            {
+                                "BURGERS":[
+                                             {
+                                                "item":"Aloo Tikki With Cheese Burger",
+                                                "stets":"BESTSELLER",
+                                                "stars":"4.4",
+                                                "vots":"347 votes",
+                                                "rs":"₹78",
+                                                "matrial":"Crunchy Herb Potato Patty With Tomato,Onion And Sauces",
+                                                "img":"5788cc66198ccba36e937547ad886061.jpg"
+                                              },
+                                              {
+                                                "item":"Spicy Treat Burger",
+                                                "stets":"",
+                                                "stars":"3",
+                                                "vots":"58 votes",
+                                                "rs":"₹89",
+                                                "matrial":"Spicy Treat",
+                                                "img":"57f0e0a7a6ed5423cb2d1f1965fab364.jpg"
+                                              },
+                                              {
+                                                "item":"Farm Fresh Burger",
+                                                "stets":"",
+                                                "stars":"4.4",
+                                                "vots":"19 votes",
+                                                "rs":"₹89",
+                                                "matrial":"Farm Fresh Burger",
+                                                "img":""
+                                              },
+                                              {
+                                                "item":"Haryali Kebab Burger",
+                                                "stets":"",
+                                                "stars":"3",
+                                                "vots":"5 votes",
+                                                "rs":"₹89",
+                                                "matrial":"Haryali Kebab Burger",
+                                                "img":""
+                                              },
+                                              {
+                                                "item":"Paneer Overload Burger",
+                                                "stets":"",
+                                                "stars":"4.2",
+                                                "vots":"15 votes",
+                                                "rs":"₹130",
+                                                "matrial":"Paneer Overload Burger",
+                                                "img":""
+                                              },
+                                              {
+                                                "item":"Schezwan Paneer Burger",
+                                                "stets":"",
+                                                "stars":"2.4",
+                                                "vots":"5 votes",
+                                                "rs":"₹140",
+                                                "matrial":"Schezwan Paneer Burger",
+                                                "img":""
+                                              }
+                                          ],
+                                "SANDWICH":[
+                                              {
+                                                "item":"Paneer Grilled Sandwich",
+                                                "stets":"BESTSELLER",
+                                                "stars":"4",
+                                                "vots":"259 votes",
+                                                "rs":"₹128",
+                                                "matrial":"Whole wheat.",
+                                                "img":"bee05798a909bb1708de9ea82c8e2a66.jpg"
+                                              },
+                                              {
+                                                "item":"Veg Cheese Grilled Sandwich",
+                                                "stets":"BESTSELLER",
+                                                "stars":"4",
+                                                "vots":"154 votes",
+                                                "rs":"₹118",
+                                                "matrial":"Whole wheat.",
+                                                "img":"543da588fb98594cf7f7578c9e1368df.jpg"
+                                              },
+                                              {
+                                                "item":"Bombay Club Grilled Sandwich",
+                                                "stets":"BESTSELLER",
+                                                "stars":"3.2",
+                                                "vots":"116 votes",
+                                                "rs":"₹158",
+                                                "matrial":"Whole wheat.",
+                                                "img":""
+                                              },
+                                              {
+                                                "item":"Achari Paneer Grilled Sandwich",
+                                                "stets":"BESTSELLER",
+                                                "stars":"4.1",
+                                                "vots":"26 votes",
+                                                "rs":"₹150",
+                                                "matrial":"Whole wheat.",
+                                                "img":""
+                                              },
+                                              {
+                                                "item":"Peanut Butter Grilled Sandwich",
+                                                "stets":"",
+                                                "stars":"",
+                                                "vots":"",
+                                                "rs":"₹160",
+                                                "matrial":"Whole wheat.",
+                                                "img":""
+                                              }
+                                           ]            
+                            }
+                        ],
+      "Pastries":[
+                     {
+                        "item":"Fresh Fruit Pastry",
+                        "stets":"",
+                        "stars":"4",
+                        "vots":"23 votes",
+                        "rs":"₹116",
+                        "matrial":"Fresh Fruit",
+                        "img":"376a65cd3abb3be214ac7090ef4dd717.jpg"
+                      },
+                      {
+                        "item":"Red Velvet Pastry",
+                        "stets":"",
+                        "stars":"4.1",
+                        "vots":"32 votes",
+                        "rs":"₹102",
+                        "matrial":"Red Velvet",
+                        "img":"d57b6f7135ca54bd5f8709babb5b90da.jpg"
+                      },
+                      {
+                        "item":"Strawberry Roll Pastry",
+                        "stets":"",
+                        "stars":"4.2",
+                        "vots":"22 votes",
+                        "rs":"₹70",
+                        "matrial":"Strawberry Roll",
+                        "img":"8509e2b60956662a362c62620a89433e.jpg"
+                      },
+                      {
+                        "item":"Chocolate Mousse Pastry",
+                        "stets":"",
+                        "stars":"4",
+                        "vots":"30 votes",
+                        "rs":"₹115",
+                        "matrial":"Chocolate Mousse",
+                        "img":"4e81ba11c21c4f1cf438c104f4096da6.jpg"
+                      },
+                      {
+                        "item":"Rich Pineapple Pastry",
+                        "stets":"",
+                        "stars":"4.1",
+                        "vots":"13 votes",
+                        "rs":"₹110",
+                        "matrial":"Richpineapple",
+                        "img":"fdc8727877bf44517b536e939bca60ac.jpg"
+                      },
+                      {
+                        "item":"Sugar Free Vanilla Pastry",
+                        "stets":"",
+                        "stars":"4",
+                        "vots":"16 votes",
+                        "rs":"₹66",
+                        "matrial":"Sugarfree Vanilla",
+                        "img":"4e46a9fb95948701d730c8cc62deca58.jpg"
+                      },
+                      {
+                        "item":"Mango Roll Pastry",
+                        "stets":"",
+                        "stars":"4",
+                        "vots":"37 votes",
+                        "rs":"₹66",
+                        "matrial":"Mango Roll",
+                        "img":"6dc5677d1edd1b272dcc6425bde46138.jpg"
+                      },
+                      {
+                        "item":"Swiss Roll",
+                        "stets":"",
+                        "stars":"4",
+                        "vots":"10 votes",
+                        "rs":"₹61.90",
+                        "matrial":"Eggless",
+                        "img":"6740e7212d72d85b9a93169bd5daa58d.jpg"
+                      },
+                      {
+                        "item":"Caramel Crunch Pastry",
+                        "stets":"",
+                        "stars":"4",
+                        "vots":"10 votes",
+                        "rs":"₹100",
+                        "matrial":"Caramel Crunch",
+                        "img":"d2c99668c1ed3056033327b362da9450.jpg"
+                      },
+                      {
+                        "item":"Chocolate Pyramid Pastry",
+                        "stets":"",
+                        "stars":"4",
+                        "vots":"11 votes",
+                        "rs":"₹160",
+                        "matrial":"Chocolate Pyramid",
+                        "img":""
+                      }
+                ],
+      "Salad":[
+                  {
+                    "item":"Protein Paneer Salad",
+                    "stets":"",
+                    "stars":"4",
+                    "vots":"25 votes",
+                    "rs":"₹240",
+                    "matrial":"Protein Paneer",
+                    "img":""
+                  },
+                  {
+                    "item":"Chakhna Salad",
+                    "stets":"",
+                    "stars":"4.1",
+                    "vots":"21 votes",
+                    "rs":"₹240",
+                    "matrial":"Chakhna Salad",
+                    "img":""
+                  },
+                  {
+                    "item":"Crunchy Munchy Salad",
+                    "stets":"",
+                    "stars":"4.1",
+                    "vots":"10 votes",
+                    "rs":"₹250",
+                    "matrial":"Crunchy Munchy Salad",
+                    "img":""
+                  },
+                  {
+                    "item":"Post Workout Salad",
+                    "stets":"",
+                    "stars":"",
+                    "vots":"",
+                    "rs":"₹280",
+                    "matrial":"Post Workout Salad",
+                    "img":""
+                  },
+                  {
+                    "item":"Grilled Paneer Salad",
+                    "stets":"",
+                    "stars":"4.1",
+                    "vots":"16 votes",
+                    "rs":"₹250",
+                    "matrial":"Grilled Paneer Salad",
+                    "img":""
+                  },
+                  {
+                    "item":"Fruit Delight Salad",
+                    "stets":"",
+                    "stars":"3",
+                    "vots":"16 votes",
+                    "rs":"₹240",
+                    "matrial":"Fruit Delight Salad",
+                    "img":""
+                  },
+                  {
+                    "item":"Detox Salad",
+                    "stets":"",
+                    "stars":"",
+                    "vots":"",
+                    "rs":"₹180",
+                    "matrial":"Detox Salad",
+                    "img":""
+                  },
+                  {
+                    "item":"Size Zero Salad",
+                    "stets":"",
+                    "stars":"3.1",
+                    "vots":"10 votes",
+                    "rs":"₹180",
+                    "matrial":"Size Zero Salad",
+                    "img":""
+                  }
+              ],   
+    "Frappe":[
+                {
+                  "item":"Hazelnut Frappe",
+                  "stets":"",
+                  "stars":"4",
+                  "vots":"5 votes",
+                  "rs":"₹180",
+                  "matrial":"Hazelnut Frappe",
+                  "img":""
+                },
+                {
+                  "item":"Tiramisu Frappe",
+                  "stets":"",
+                  "stars":"",
+                  "vots":"",
+                  "rs":"₹190",
+                  "matrial":"Tiramisu Frappe",
+                  "img":""
+                },
+                {
+                  "item":"Mocha Frappe",
+                  "stets":"",
+                  "stars":"4.1",
+                  "vots":"10 votes",
+                  "rs":"₹160",
+                  "matrial":"Mocha Frappe",
+                  "img":""
+                },
+                {
+                  "item":"Americano Freezer",
+                  "stets":"",
+                  "stars":"",
+                  "vots":"",
+                  "rs":"₹140",
+                  "matrial":"Americano Freezer",
+                  "img":""
+                },
+                {
+                  "item":"Tiramisu Oreo Frappe",
+                  "stets":"",
+                  "stars":"4.1",
+                  "vots":"10 votes",
+                  "rs":"₹205",
+                  "matrial":"Tiramissu Oreo",
+                  "img":""
+                }
+             ],
+    "Combo":[
+              {
+                "item":"Special Ras Malai Pastry",
+                "stets":"",
+                "stars":"3.4",
+                "vots":"16 votes",
+                "rs":"₹140",
+                "matrial":"",
+                "img":""
+              },
+              {
+                "item":"3 Cheese Pizza With Oreo Cookie Shake [Serves 2]",
+                "stets":"",
+                "stars":"",
+                "vots":"",
+                "rs":"₹420",
+                "matrial":"",
+                "img":""
+              },
+              {
+                "item":"Farm Fresh Pizza With Nutella Shake [Serves 2]",
+                "stets":"",
+                "stars":"",
+                "vots":"",
+                "rs":"₹449",
+                "matrial":"",
+                "img":""
+              },
+              {
+                "item":"Hawain Pizza And Nutella Shake [Serves 2]",
+                "stets":"",
+                "stars":"",
+                "vots":"",
+                "rs":"₹449",
+                "matrial":"",
+                "img":""
+              },
+              {
+                "item":"Italian Style Pizza With Nutella Shake [Serves 2]",
+                "stets":"",
+                "stars":"",
+                "vots":"",
+                "rs":"₹449",
+                "matrial":"",
+                "img":""
+              },
+              {
+                "item":"Zesty Paneer Pizza With Oreo Cookie Shake [Serves 2]",
+                "stets":"",
+                "stars":"",
+                "vots":"",
+                "rs":"₹419",
+                "matrial":"",
+                "img":""
+              }
+            ],
+    "Cakes2p":[
+                {
+                "item":"Fresh Fruit Cake [800 Grams]",
+                "stets":"BESTSELLER",
+                "stars":"4",
+                "vots":"17 votes",
+                "rs":"₹840",
+                "matrial":"Made with candied or dried fruit, nuts, and spices, And optionally soaked in spirits",
+                "img":"41ebce8f461f50b3a34f769a4397117e.jpg"
+                },
+                {
+                  "item":"Butterscotch Cake [800 Grams]",
+                  "stets":"BESTSELLER",
+                  "stars":"4",
+                  "vots":"20 votes",
+                  "rs":"₹720",
+                  "matrial":"Eggless",
+                  "img":"6c13614e2a273989d9d34e12589e1285.jpg"
+                },
+                {
+                  "item":"White Forest Cake [800 Grams]",
+                  "stets":"BESTSELLER",
+                  "stars":"4",
+                  "vots":"20 votes",
+                  "rs":"₹840",
+                  "matrial":"Eggless",
+                  "img":"fe7f36c8f57d080d2e6f227f8f3c40f2.jpg"
+                },
+                {
+                  "item":"Chocolate Mousse Cake [800 Grams]",
+                  "stets":"BESTSELLER",
+                  "stars":"3.2",
+                  "vots":"24 votes",
+                  "rs":"₹840",
+                  "matrial":"A Gorgeous three layer chocolate chip cake made from acratch. Buttery vanilla cake studded with chocolate chips and frosted with vanilla buttercream.",
+                  "img":"4e032f4be3380b41521bd8ca0fd852a2.jpg"
+                },
+                {
+                  "item":"Black Forest Cake [800 Grams]",
+                  "stets":"",
+                  "stars":"4.2",
+                  "vots":"24 votes",
+                  "rs":"₹840",
+                  "matrial":"This black forest cake combines rich chocolate cake layers with fresh cherries.",
+                  "img":"d95218a58b916078a6f4d68419069488.jpg"
+                },
+                {
+                  "item":"Pineapple Cake [800 Grams]",
+                  "stets":"",
+                  "stars":"4.3",
+                  "vots":"10 votes",
+                  "rs":"₹720",
+                  "matrial":"Eggless",
+                  "img":"1a70c8d369e23703cc4d5197f526fd0e.jpg"
+                },
+                {
+                  "item":"Red Velvet Cake [800 Grams]",
+                  "stets":"",
+                  "stars":"3",
+                  "vots":"4 votes",
+                  "rs":"₹900",
+                  "matrial":"Eggless",
+                  "img":"fff2d6cdbc064527f0bda0bba1ddbff7.jpg"
+                }
+              ],
+    "Cakes1p":[
+                {
+                  "item":"Fresh Fruit Cake [400 Grams]",
+                  "stets":"BESTSELLER",
+                  "stars":"4.1",
+                  "vots":"122 votes",
+                  "rs":"₹500",
+                  "matrial":"Made with candied or dried fruit, nuts, and spices, and optionally soaked in spirits",
+                  "img":"adfef81a7ae485bca248abab459e91bc.jpg"
+                },
+                {
+                  "item":"Chocolate Mousse Cake [400 Grams]",
+                  "stets":"BESTSELLER",
+                  "stars":"4.1",
+                  "vots":"64 votes",
+                  "rs":"₹500",
+                  "matrial":"A gorgeous three layer chocolate chip cake made from scratch. Buttery vanilla cake studded with chocolate chips and frosted with vanilla buttercream.",
+                  "img":"4735918e8bb4955cc89ef76c97220940.jpg"
+                },
+                {
+                  "item":"Black Forest Cake [400 Grams]",
+                  "stets":"BESTSELLER",
+                  "stars":"4",
+                  "vots":"85 votes",
+                  "rs":"₹450",
+                  "matrial":"Eggless.",
+                  "img":"f21c495dae2c91c8c878fe6c31b4a26b.jpg"
+                },
+                {
+                  "item":"Butterscotch Cake [400 Grams]",
+                  "stets":"BESTSELLER",
+                  "stars":"4",
+                  "vots":"87 votes",
+                  "rs":"₹430",
+                  "matrial":"Eggless.",
+                  "img":"e47a484029a767ea70ca9c497400a59b.jpg"
+                },
+                {
+                  "item":"Red Velvet Cake [400 Grams]",
+                  "stets":"BESTSELLER",
+                  "stars":"4",
+                  "vots":"54 votes",
+                  "rs":"₹500",
+                  "matrial":"This delicious red velvet cake has light chocolate layers with a moist, fluffy crumb and decadent cream cheese frosting all topped with buttercream.",
+                  "img":"c86a3de1a7e30fa83a4cd6174b4ea25f.jpg"
+                },
+                {
+                  "item":"Pineapple Cake [400 Grams]",
+                  "stets":"",
+                  "stars":"4",
+                  "vots":"42 votes",
+                  "rs":"₹430",
+                  "matrial":"Eggless",
+                  "img":"ab42a7b0d37040927a510b6a748fda18.jpg"
+                },
+                {
+                  "item":"White Forest Cake [400 Grams]",
+                  "stets":"",
+                  "stars":"4",
+                  "vots":"21 votes",
+                  "rs":"₹470",
+                  "matrial":"Eggless",
+                  "img":"7e702481af14313d539a66b2562fd09b.jpg"
+                }
+              ],
+    "Nachos":[
+                {
+                  "item":"Loaded Cheese Nachos",
+                  "stets":"",
+                  "stars":"3",
+                  "vots":"4 votes",
+                  "rs":"₹173",
+                  "matrial":"",
+                  "img":""
+                },
+                {
+                  "item":"American Nachos",
+                  "stets":"",
+                  "stars":"",
+                  "vots":"",
+                  "rs":"₹173",
+                  "matrial":"",
+                  "img":""
+                },
+                {
+                  "item":"Salsa Mexicana Nachos",
+                  "stets":"",
+                  "stars":"",
+                  "vots":"",
+                  "rs":"₹160",
+                  "matrial":"",
+                  "img":""
+                },
+                {
+                  "item":"Indiana Nachos",
+                  "stets":"",
+                  "stars":"",
+                  "vots":"",
+                  "rs":"₹160",
+                  "matrial":"",
+                  "img":""
+                }
+             ],
+    "ThickShakes":[
+                    {
+                      "item":"Cold Coffee",
+                      "stets":"BESTSELLER",
+                      "stars":"4",
+                      "vots":"31 votes",
+                      "rs":"₹160",
+                      "matrial":"Fresh espresso blended with milk, ice and vanilla ice-cream.",
+                      "img":"5bb79dcb4648c4dbb6d56a78d466f75d.jpg"
+                    },
+                    {
+                      "item":"Kit Kat Shake",
+                      "stets":"",
+                      "stars":"4.3",
+                      "vots":"10 votes",
+                      "rs":"₹180",
+                      "matrial":"Kitkat Shake",
+                      "img":""
+                    },
+                    {
+                      "item":"Butterscotch Shake",
+                      "stets":"",
+                      "stars":"",
+                      "vots":"",
+                      "rs":"₹160",
+                      "matrial":"Butterscotch Shake",
+                      "img":""
+                    },
+                    {
+                      "item":"Blue Berry Thickshake",
+                      "stets":"",
+                      "stars":"",
+                      "vots":"",
+                      "rs":"₹160",
+                      "matrial":"Blue Berry Thickshake",
+                      "img":""
+                    },
+                    {
+                      "item":"Chocolate Shake",
+                      "stets":"",
+                      "stars":"",
+                      "vots":"",
+                      "rs":"₹160",
+                      "matrial":"Chocolate Shake",
+                      "img":""
+                    },
+                    {
+                      "item":"Banoffee Shake",
+                      "stets":"",
+                      "stars":"",
+                      "vots":"",
+                      "rs":"₹220",
+                      "matrial":"Banoffee Shake",
+                      "img":""
+                    },
+                    {
+                      "item":"Black Forest Shake",
+                      "stets":"",
+                      "stars":"",
+                      "vots":"",
+                      "rs":"₹160",
+                      "matrial":"Black Forest Shake",
+                      "img":""
+                    },
+                    {
+                      "item":"Bubblegum Blend Shake",
+                      "stets":"",
+                      "stars":"",
+                      "vots":"",
+                      "rs":"₹180",
+                      "matrial":"Bubblegum Blend Shake",
+                      "img":""
+                    },
+                    {
+                      "item":"Cookie And Cream Shake",
+                      "stets":"",
+                      "stars":"4",
+                      "vots":"4 votes",
+                      "rs":"₹180",
+                      "matrial":"Cookie And Cream Shake",
+                      "img":""
+                    },
+                    {
+                      "item":"Forest Fruit Shake",
+                      "stets":"",
+                      "stars":"",
+                      "vots":"",
+                      "rs":"₹180",
+                      "matrial":"Forest Fruit Shake",
+                      "img":""
+                    },
+                    {
+                      "item":"Fudge Brownie Shake",
+                      "stets":"",
+                      "stars":"3",
+                      "vots":"10 votes",
+                      "rs":"₹200",
+                      "matrial":"Fudge Brownie Shake",
+                      "img":""
+                    },
+                    {
+                      "item":"Mango Shake",
+                      "stets":"",
+                      "stars":"2.5",
+                      "vots":"10 votes",
+                      "rs":"₹200",
+                      "matrial":"Mango Shake",
+                      "img":""
+                    },
+                    {
+                      "item":"Oreo Cookie Shake",
+                      "stets":"",
+                      "stars":"4.2",
+                      "vots":"13 votes",
+                      "rs":"₹140",
+                      "matrial":"Oreo Cookie Shake",
+                      "img":""
+                    },
+                    {
+                      "item":"Paan Pasand Shake",
+                      "stets":"",
+                      "stars":"",
+                      "vots":"",
+                      "rs":"₹160",
+                      "matrial":"Paan Pasand Shake",
+                      "img":""
+                    },
+                    {
+                      "item":"Peanut Butter Blast Shake",
+                      "stets":"",
+                      "stars":"",
+                      "vots":"",
+                      "rs":"₹210",
+                      "matrial":"Peanut Butter Blast Shake",
+                      "img":""
+                    },
+                    {
+                      "item":"Salted Caramel Shake",
+                      "stets":"",
+                      "stars":"",
+                      "vots":"",
+                      "rs":"₹180",
+                      "matrial":"Salted Caramel",
+                      "img":""
+                    },
+                    {
+                      "item":"Snickers Shake",
+                      "stets":"",
+                      "stars":"",
+                      "vots":"",
+                      "rs":"₹180",
+                      "matrial":"Snickers Shake",
+                      "img":""
+                    },
+                    {
+                      "item":"Strawberry Shake",
+                      "stets":"",
+                      "stars":"",
+                      "vots":"",
+                      "rs":"₹160",
+                      "matrial":"Strawberry Shake",
+                      "img":""
+                    },
+                    {
+                      "item":"Vanilla Shake",
+                      "stets":"",
+                      "stars":"",
+                      "vots":"",
+                      "rs":"₹160",
+                      "matrial":"Vanilla Shake",
+                      "img":""
+                    }             
+                  ],
+    "SummerCoolers":[
+                       {
+                          "item":"Virgin Mojito",
+                          "stets":"",
+                          "stars":"4",
+                          "vots":"12 votes",
+                          "rs":"₹120",
+                          "matrial":"",
+                          "img":""
+                        },
+                        {
+                          "item":"Lemon Iced Tea",
+                          "stets":"",
+                          "stars":"",
+                          "vots":"",
+                          "rs":"₹100",
+                          "matrial":"",
+                          "img":""
+                        },
+                        {
+                          "item":"Watermelon Slush",
+                          "stets":"",
+                          "stars":"",
+                          "vots":"",
+                          "rs":"₹100",
+                          "matrial":"",
+                          "img":""
+                        },
+                        {
+                          "item":"Blue Lagoon Mojito",
+                          "stets":"",
+                          "stars":"4",
+                          "vots":"10 votes",
+                          "rs":"₹120",
+                          "matrial":"",
+                          "img":""
+                        },
+                        {
+                          "item":"Green Apple Mojito",
+                          "stets":"",
+                          "stars":"",
+                          "vots":"",
+                          "rs":"₹120",
+                          "matrial":"",
+                          "img":""
+                        },
+                        {
+                          "item":"Banana Smoothie",
+                          "stets":"",
+                          "stars":"",
+                          "vots":"",
+                          "rs":"₹120",
+                          "matrial":"",
+                          "img":""
+                        },
+                        {
+                          "item":"Chilli Guava",
+                          "stets":"",
+                          "stars":"",
+                          "vots":"",
+                          "rs":"₹120",
+                          "matrial":"",
+                          "img":""
+                        },
+                        {
+                          "item":"Fresh Lime",
+                          "stets":"",
+                          "stars":"3.1",
+                          "vots":"5 votes",
+                          "rs":"₹75",
+                          "matrial":"",
+                          "img":""
+                        },
+                        {
+                          "item":"Fruit Punch",
+                          "stets":"",
+                          "stars":"",
+                          "vots":"",
+                          "rs":"₹180",
+                          "matrial":"",
+                          "img":""
+                        },
+                        {
+                          "item":"Mango Lassi",
+                          "stets":"",
+                          "stars":"",
+                          "vots":"",
+                          "rs":"₹120",
+                          "matrial":"",
+                          "img":""
+                        },
+                        {
+                          "item":"Paan Mojito",
+                          "stets":"",
+                          "stars":"",
+                          "vots":"",
+                          "rs":"₹120",
+                          "matrial":"",
+                          "img":""
+                        },
+                        {
+                          "item":"Paan Kiwi Mint Mojito",
+                          "stets":"",
+                          "stars":"",
+                          "vots":"",
+                          "rs":"₹140",
+                          "matrial":"",
+                          "img":""
+                        },
+                        {
+                           "item":"Spicy Mango Mojito",
+                          "stets":"",
+                          "stars":"",
+                          "vots":"",
+                          "rs":"₹120",
+                          "matrial":"",
+                          "img":""
+                        },
+                        {
+                           "item":"Strawberry Lassi",
+                          "stets":"",
+                          "stars":"",
+                          "vots":"",
+                          "rs":"₹120",
+                          "matrial":"",
+                          "img":""
+                        },
+                        {
+                           "item":"Watermelon Masala",
+                          "stets":"",
+                          "stars":"",
+                          "vots":"",
+                          "rs":"₹110",
+                          "matrial":"",
+                          "img":""
+                        }  
+                    ],
+    "RealFruitShakes":[
+                        {
+                           "item":"Banana Shake",
+                          "stets":"",
+                          "stars":"3.2",
+                          "vots":"4 votes",
+                          "rs":"₹120",
+                          "matrial":"",
+                          "img":""
+                        },
+                        {
+                           "item":"Chikoo Shake",
+                          "stets":"",
+                          "stars":"",
+                          "vots":"",
+                          "rs":"₹140",
+                          "matrial":"",
+                          "img":""
+                        },
+                        {
+                           "item":"Kiwi Shake",
+                          "stets":"",
+                          "stars":"",
+                          "vots":"",
+                          "rs":"₹140",
+                          "matrial":"",
+                          "img":""
+                        },
+                        {
+                           "item":"Papaya Smoothie",
+                          "stets":"",
+                          "stars":"",
+                          "vots":"",
+                          "rs":"₹140",
+                          "matrial":"",
+                          "img":""
+                        } 
+                      ]                        
+  } 
+]
